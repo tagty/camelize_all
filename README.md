@@ -12,7 +12,7 @@
 > camelize_all(PATH)
 ```
 
-## test
+## Test
 
 ```
 ruby test.rb
